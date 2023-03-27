@@ -8,3 +8,6 @@ Lately, I've been thinking about going after an MBA.  I should.  That will requi
 
 ## March 25, 2023
 I finished the Git & Github course on Udemy yesterday.  Today, I had to work the second job, so I didn't get much coding time in.  Played around with datetime in python a bit...but I'll spend more time on it tomorrow.  I'd like to get this little script I'm working on done before the end of the month.
+
+## March 26, 2023
+Had the kiddos today and a bunch of life stuff got in the way.  Spent maybe 10 minutes fucking around with python code.  Did a quick commit to github for the consistency.  Will do better tomorrow.
