@@ -11,3 +11,9 @@ I finished the Git & Github course on Udemy yesterday.  Today, I had to work the
 
 ## March 26, 2023
 Had the kiddos today and a bunch of life stuff got in the way.  Spent maybe 10 minutes fucking around with python code.  Did a quick commit to github for the consistency.  Will do better tomorrow.
+
+## March 27, 2023
+I took the day off from coding today so I could spend time with the kiddos after work.  I did watch some Udemy videos on Azure AZ-900 certification, though, so the day wasn't completely devoid of learning.
+
+## March 28, 2023
+The plan for today: super-productive. Blast through a couple units of AZ-900 training and then finish up a python project I'm working on.  I'll update this again at the end of my day.
