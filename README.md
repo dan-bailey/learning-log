@@ -16,4 +16,7 @@ Had the kiddos today and a bunch of life stuff got in the way.  Spent maybe 10 m
 I took the day off from coding today so I could spend time with the kiddos after work.  I did watch some Udemy videos on Azure AZ-900 certification, though, so the day wasn't completely devoid of learning.
 
 ## March 28, 2023
-The plan for today: super-productive. Blast through a couple units of AZ-900 training and then finish up a python project I'm working on.  I'll update this again at the end of my day.
+Wasn't as productive as I'd have liked -- I opted to spend more time with the kids and less time working.  Did work through some more training for Azure AZ-900 certification.
+
+## March 29, 2023
+Started building out a new plugin for Wordpress to handle the extra content types I want to add to my personal site.
