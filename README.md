@@ -3,7 +3,7 @@ Keeping track of what I'm learning about on any given day in 2023.
 
 # sections
 * [the log](https://github.com/dan-bailey/learning-log#learning-log)
-* to-do list
+* [to-do list](https://github.com/dan-bailey/learning-log#to-do-list)
 
 # the log
 
@@ -30,4 +30,11 @@ Started building out a new plugin for Wordpress (yay, PHP!) to handle the extra 
 ## March 30, 2023
 More Udemy/AZ-900 stuff today.  Hoping to get that wrapped up by EOD tomorrow.  Got some python code to sling tonight.  I need to buckle down on that.
 
-## Marc 31, 2023
+## March 31, 2023
+
+# to-do list
+Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with
+* TailwindCSS
+* Docker/Kubernetes
+* ReactJS
+* more python stuff
