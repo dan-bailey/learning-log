@@ -19,4 +19,9 @@ I took the day off from coding today so I could spend time with the kiddos after
 Wasn't as productive as I'd have liked -- I opted to spend more time with the kids and less time working.  Did work through some more training for Azure AZ-900 certification.
 
 ## March 29, 2023
-Started building out a new plugin for Wordpress to handle the extra content types I want to add to my personal site.
+Started building out a new plugin for Wordpress (yay, PHP!) to handle the extra content types I want to add to my personal site.  Spent some time in Udemy on the AZ-900 stuff.
+
+## March 30, 2023
+More Udemy/AZ-900 stuff today.  Hoping to get that wrapped up by EOD tomorrow.  Got some python code to sling tonight.  I need to buckle down on that.
+
+## Marc 31, 2023
