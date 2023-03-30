@@ -2,8 +2,8 @@
 Keeping track of what I'm learning about on any given day in 2023.  You can see my commits and look at my code, but it doesn't give you any sort of context about what I'm actively pursuing.  Hence, this doc.
 
 # sections
-* [the log](https://github.com/dan-bailey/learning-log#learning-log)
-* [to-do list](https://github.com/dan-bailey/learning-log#to-do-list)
+* [the log](#learning-log)
+* [to-do list](#to-do-list)
 
 # the log
 
