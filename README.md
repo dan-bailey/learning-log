@@ -1,5 +1,5 @@
 # learning-log
-Keeping track of what I'm learning about on any given day in 2023.
+Keeping track of what I'm learning about on any given day in 2023.  You can see my commits and look at my code, but it doesn't give you any sort of context about what I'm actively pursuing.  Hence, this doc.
 
 # sections
 * [the log](https://github.com/dan-bailey/learning-log#learning-log)
