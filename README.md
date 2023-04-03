@@ -31,6 +31,16 @@ Started building out a new plugin for Wordpress (yay, PHP!) to handle the extra 
 More Udemy/AZ-900 stuff today.  Hoping to get that wrapped up by EOD tomorrow.  Got some python code to sling tonight.  I need to buckle down on that.
 
 ## March 31, 2023
+Lots of errands had to be run today, but I did manage to make some serious headway on the date functions in my Twitter/Todoist script I'm writing in python.  
+
+## April 1, 2023
+More progress on the Twitter/Todoist script.
+
+## April 2, 2023
+Twitter/Todoist script work.  I found some fuckery in my datetime setup, where after 9pm, my script thinks it's a different date.  I've got that resolved.  Current script works if the full character-length on the generated tweet is less than 288.  I need to build out the logic for breaking this thing up.  And having it reply to the first tweet so it builds a thread, as opposed to three separate tweets.
+
+## April 3, 2023
+Chasing down the date glitch some more.  When I figure it out, I'll detail it here.
 
 # to-do list
 Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with
