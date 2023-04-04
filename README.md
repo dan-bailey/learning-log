@@ -40,7 +40,10 @@ More progress on the Twitter/Todoist script.
 Twitter/Todoist script work.  I found some fuckery in my datetime setup, where after 9pm, my script thinks it's a different date.  I've got that resolved.  Current script works if the full character-length on the generated tweet is less than 288.  I need to build out the logic for breaking this thing up.  And having it reply to the first tweet so it builds a thread, as opposed to three separate tweets.
 
 ## April 3, 2023
-Chasing down the date glitch some more.  When I figure it out, I'll detail it here.
+Chasing down the date glitch some more.  I took a break from chasing that glitch -- for some reason after 8pm local time, there's some fuckery with converting from UTC to local time and that's skewing the results of the app.  I did however, chew on other parts of this script, like the part of breaking the list down into a series of tweets, and figuring out the Twitter API so that I can post the series of tweets as a thread, rather than as three unrelated tweets.  So I'm still making headway.  I also spent some time on Udemy today with the AZ-900 course prep.
+
+## April 4, 2023
+My subconscious worked on the "break the list into a series of tweets" problem last night and figured out a much more elegant way to do it.  I'll be implementing that today...and then going back to deal with the bullshit with the UTC/Local fuckery.  (Should I be swearing in what amounts to my portfolio?  Probably not.  But here I am.)  
 
 # to-do list
 Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with
