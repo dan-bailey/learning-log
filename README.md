@@ -46,7 +46,8 @@ Chasing down the date glitch some more.  I took a break from chasing that glitch
 My subconscious worked on the "break the list into a series of tweets" problem last night and figured out a much more elegant way to do it.  I'll be implementing that today...and then going back to deal with the bullshit with the UTC/Local fuckery.  (Should I be swearing in what amounts to my portfolio?  Probably not.  But here I am.)  
 
 # to-do list
-Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with
+Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with:
+* potentially getting an MBA
 * TailwindCSS
 * Docker/Kubernetes
 * ReactJS
