@@ -48,6 +48,18 @@ My subconscious worked on the "break the list into a series of tweets" problem l
 ## April 5, 2023
 Thought I had everything dialed-in and ready to go with my Todoist/Twitter script, but I'm getitng some errors re: tweet length.  Guess what I learned today?  Emoji count as more than one character.  Ooops.  Going to have to tweak some stuff with the line length calculations.  Blasting through more AZ-900 certification prep today, too.
 
+## April 6, 2023
+Got that python script working as-planned.  Did a bunch of AZ-900 studying today.
+
+## April 7, 2023
+More AZ-900 studying.
+
+## April 8, 2023
+Mom in hospital after a fall in her basement.  No studying today.
+
+## April 9, 2023
+Digging in to making my WP Littlefoot plugin for handling footnotes.
+
 # to-do list
 Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with:
 * potentially getting an MBA
