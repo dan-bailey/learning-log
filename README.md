@@ -67,7 +67,10 @@ Plowing through more Azure AZ-900 certification coursework.
 Finished the [AZ-900 Certification Prep](https://www.udemy.com/certificate/UC-5251a796-2595-4702-bb08-8c05d510485d/) on Udemy.  Tonight, tearing into some stuff on TailwindCSS, and doing some code work on WP Littlefoot.
 
 ## April 12, 2023
-Today was a bit nuts -- had to work the desk job and work the side hustle (bike shop).  Did kick off learning TailwindCSS (thanks, Udemy), and spend some more time getting acquainted with Azure.  So, uh, yay?  Tomorrow, probably more Tailwind, plus I have some freelance stuff I have to blast through.
+Today was a bit nuts -- had to work the desk job and work the side hustle (bike shop).  Did kick off learning TailwindCSS (thanks, Udemy), and spend some more time getting acquainted with Azure.  So, uh, yay?  Tomorrow, probably more Tailwind, plus I have some freelance stuff I have to blast through.  Scheduled my AZ-900 certification exam for next Tuesday.
+
+## April 13, 2023
+Did some Tailwind stuff in Udemy, also cranked out a simple PHP plugin for a client site that replicates some functionality done by another plugin that's got some security issues.  Pretty pleased with that.  Because it's a client project, it's in a private repo.  Sorry, kids.
 
 
 # to-do list
