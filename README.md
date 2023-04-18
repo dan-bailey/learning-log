@@ -72,11 +72,27 @@ Today was a bit nuts -- had to work the desk job and work the side hustle (bike 
 ## April 13, 2023
 Did some Tailwind stuff in Udemy, also cranked out a simple PHP plugin for a client site that replicates some functionality done by another plugin that's got some security issues.  Pretty pleased with that.  Because it's a client project, it's in a private repo.  Sorry, kids.
 
+## April 14, 2023
+TailwindCSS coursework.
+
+## April 15, 2023
+TailwindCSS coursework.
+
+## April 16, 2023
+TailwindCSS coursework.
+
+## April 17, 2023
+Nada.
+
+## April 18, 2023
+Took the Microsoft Azure AZ-900 (Fundamentals) exam and passed.  So I've got my first certification.  
+
 
 # to-do list
 Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with:
 * potentially getting an MBA
 * TailwindCSS
+* MermaidJS
 * Docker/Kubernetes
 * ReactJS
 * more python stuff
