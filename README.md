@@ -85,7 +85,13 @@ TailwindCSS coursework.
 Nada.
 
 ## April 18, 2023
-Took the Microsoft Azure AZ-900 (Fundamentals) exam and passed.  So I've got my first certification.  
+Took the Microsoft Azure AZ-900 (Fundamentals) exam and passed.  So I've got my first certification.
+
+## April 19, 2023
+More work with TailwindCSS.  Working through the basics, have a few projects that are part of the course, and then I'm going to use it to build up a new template for a Wordpress site I want to build.
+
+## April 20, 2023
+(forthcoming)
 
 
 # to-do list
