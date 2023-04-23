@@ -91,8 +91,13 @@ Took the Microsoft Azure AZ-900 (Fundamentals) exam and passed.  So I've got my 
 More work with TailwindCSS.  Working through the basics, have a few projects that are part of the course, and then I'm going to use it to build up a new template for a Wordpress site I want to build.
 
 ## April 20, 2023
-(forthcoming)
+Taking a break today.
 
+## April 21, 2033
+Registered for Microsoft Build in Seattle next month.  Gonna be pretty awesome.  Spun up another VM to run a couple of Wordpress sites on.
+
+## April 22, 2033
+Debugging the Wordpress server, getting the old site restored, and getting that ready to go.  Made some edits to the girlfriend's site theme to add some functionality that was not previously there.
 
 # to-do list
 Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with:
