@@ -93,16 +93,47 @@ More work with TailwindCSS.  Working through the basics, have a few projects tha
 ## April 20, 2023
 Taking a break today.
 
-## April 21, 2033
+## April 21, 2023
 Registered for Microsoft Build in Seattle next month.  Gonna be pretty awesome.  Spun up another VM to run a couple of Wordpress sites on.
 
-## April 22, 2033
+## April 22, 2023
 Debugging the Wordpress server, getting the old site restored, and getting that ready to go.  Made some edits to the girlfriend's site theme to add some functionality that was not previously there.
+
+## April 23-30, 2023
+Taking a little downtime due to issues with mom's health.
+
+## May 1, 2023
+TailwindCSS course: basics.
+
+## May 2, 2023
+TailwindCSS course: basics.  Azure AZ-104 certification prep coursework.
+
+## May 3, 2023
+TailwindCSS course: basics.
+
+## May 4, 2023
+TailwindCSS course: basics.
+
+## May 5, 2023
+TailwindCSS course: basics.
+
+## May 6, 2023
+TailwindCSS course: mini-projects.
+
+## May 7, 2023
+TailwindCSS course: mini-projects.
+
+## May 8, 2023
+TailwindCSS course: mini-projects wrap-up.
+
+## May 9, 2023
+AZ-104 coursework in prep for certification.  More TailwindCSS work, this time on the bigger projects.  Also did some AZ-104 certification prep, and read up on [HTMX](https://htmx.org).
 
 # to-do list
 Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with:
 * potentially getting an MBA
 * TailwindCSS
+* HTMX
 * MermaidJS
 * Docker/Kubernetes
 * ReactJS
