@@ -129,6 +129,12 @@ TailwindCSS course: mini-projects wrap-up.
 ## May 9, 2023
 AZ-104 coursework in prep for certification.  More TailwindCSS work, this time on the bigger projects.  Also did some AZ-104 certification prep, and read up on [HTMX](https://htmx.org).
 
+## May 10-14, 2023
+Didn't get anything done due to having to deal with mom's health issues again.  This could become a recurring theme for 2023, unfortunately.
+
+## May 15, 2023
+Did some more AZ-104 certification work and some more TailwindCSS work.  Hoping to get the latter wrapped-up by the end of the month, but who knows?
+
 # to-do list
 Here's the shortlist of the things that I'm curious about and/or about to tee-up and start stuffing my brain with:
 * potentially getting an MBA
