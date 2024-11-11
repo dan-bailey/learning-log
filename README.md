@@ -7,7 +7,9 @@ I'm bringing this back.  Because I feel like I need to keep better track of all 
 
 # the log
 
-## November 6, 2024
+## November 11, 2024
+* Need to spend some time exercising the muscles with the `.when()` and `.then()` methods in Javascript.
+* 
 
 
 # to-do list
