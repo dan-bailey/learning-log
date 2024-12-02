@@ -7,9 +7,13 @@ I'm bringing this back.  Because I feel like I need to keep better track of all 
 
 # the log
 
-## November 11, 2024
+### December 1, 2024
+* refreshing knowledge via learning-by-doing, working on a client's Wordpress theme
+
+### November 30, 2024
 * Need to spend some time exercising the muscles with the `.when()` and `.then()` methods in Javascript.
-* 
+* Did some python learning today.
+* Tackled another leetcode problem.
 
 
 # to-do list
