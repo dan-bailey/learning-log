@@ -9,6 +9,9 @@ I'm bringing this back.  Because I feel like I need to keep better track of all 
 
 ### December 1, 2024
 * refreshing knowledge via learning-by-doing, working on a client's Wordpress theme
+* spent some time getting a refresher on algebra 1 so that I can help my kid with his homework
+* * he's terrifyingly good at math and will outstrip my abilities in just a couple more years here
+
 
 ### November 30, 2024
 * Need to spend some time exercising the muscles with the `.when()` and `.then()` methods in Javascript.
