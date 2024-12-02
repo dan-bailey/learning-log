@@ -8,10 +8,10 @@ I'm bringing this back.  Because I feel like I need to keep better track of all 
 # the log
 
 ### December 1, 2024
-* refreshing knowledge via learning-by-doing, working on a client's Wordpress theme
-* spent some time getting a refresher on algebra 1 so that I can help my kid with his homework
-* * he's terrifyingly good at math and will outstrip my abilities in just a couple more years here
-
+* Refreshing knowledge via learning-by-doing, working on a client's Wordpress theme.
+* Spent some time getting a refresher on Algebra 1 so that I can help my kid with his homework.
+  * He's been terrifyingly good at math thus far and will outstrip my abilities in just a couple more years unless I make a concerted effort to catch up with him.
+* 
 
 ### November 30, 2024
 * Need to spend some time exercising the muscles with the `.when()` and `.then()` methods in Javascript.
